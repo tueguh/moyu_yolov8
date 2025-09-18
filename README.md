@@ -4,6 +4,8 @@
 
 还能用桌面小浮窗看到具体人在哪里。让你做到摸鱼心里有底。2333333
 
+![image](https://github.com/danghb/moyu_yolov8/blob/master/pic/%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.jpg)
+
 ## 🚀 快速开始（推荐新手）
 
 ### 一键启动简化版本
